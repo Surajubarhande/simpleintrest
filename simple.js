@@ -6,4 +6,4 @@ rate=parseInt(rate);
 year=prompt("enter year");
 year=parseInt(year);
 simpleIntrest=(amount*rate*year)/100;
-alert("simpleIntrest"+simpleIntrest)
+alert("simpleIntrest :-"+simpleIntrest)
