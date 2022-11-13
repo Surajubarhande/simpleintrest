@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    background: linear-gradient(to left, rgb(212, 12, 46), purple);
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
+h1 {
+    margin: auto;
+    color: black;
+}
